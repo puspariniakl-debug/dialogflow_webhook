@@ -18,8 +18,8 @@ const jadwal = {
   ],
   
   rabu: [
-    { waktu: "08.50 - 08.50", mapel: "sejarah" }, 
-    { waktu: "07.30 - 13.20", mapel: "dasar dasar akuntansi" }, 
+    { waktu: "07.30 - 08.50", mapel: "sejarah" }, 
+    { waktu: "08.30 - 13.20", mapel: "dasar dasar akuntansi" }, 
     { waktu: "13.40 - 15.00", mapel: "KKa" } 
   ],
   kamis: [
